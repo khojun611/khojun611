@@ -22,12 +22,12 @@ linkedin: khojun611@cau.ac.kr
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I'm an M.S. student at <a href="https://www.cau.ac.kr/index.do" target="_blank">Chung-Ang University</a>, 
-    specializing in Image/Video Engineering under the mentorship of 
+    I'm an Ph.D. student at <a href="https://www.cau.ac.kr/index.do" target="_blank">Chung-Ang University</a>, 
+    specializing in Image/3D Engineering under the mentorship of 
     <a href="https://www.irislab.cau.ac.kr/members/pi" target="_blank">Prof. Hak Gu Kim</a>.
   </p>
   <p>
-    My research interests lie in integrating various domain data through <strong>multimodal learning</strong>. I investigate how visual, language, and audio modalities can be comprehensively leveraged. Furthermore, I explore multimodal large language models to enhance interaction systems that understand and communicate across diverse modalities.
+    My research interests lie in 3D reconstruction through Novel View Synthesis. I focus on comprehensively leveraging visual data, language models, and 3D data. Additionally, I explore gaussian splatting to enhance Virtual Reality (VR) systems, with a specific emphasis on multimodal large language models.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -38,7 +38,7 @@ education:
 - name: Chung-Ang University (CAU)
   logo: /assets/images/badges/cau.jpg
   position: >-
-    Ph.D. in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
+    Ph.D. Candidate in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
     M.S. in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
     Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
   date: Sep. 2022 - Present
