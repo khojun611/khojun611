@@ -37,11 +37,12 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Chung-Ang University (CAU)
   logo: /assets/images/badges/cau.jpg
-  position: >-
+position: >-
     Ph.D. Candidate in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
+    date: Sep. 2024 - Present <br/>
     M.S. in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
+    date: Sep. 2022 - Aug. 2024 <br/>
     Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
-  date: Sep. 2022 - Present
 - name: Dankook University
   logo: /assets/images/badges/dankook.jpg
   position: B.S. in Industrial Engineering
