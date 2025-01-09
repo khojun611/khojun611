@@ -14,7 +14,4 @@ authors:
   - <u>Hyung Kyu Kim</u>*
   - Sangmin Lee
   - Hak Gu Kim
-links:
-  Paper: ""
-  Code: ""
 ---
