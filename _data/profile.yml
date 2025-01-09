@@ -27,7 +27,7 @@ short_bio: >-
     <a href="https://www.irislab.cau.ac.kr/members/pi" target="_blank">Prof. Hak Gu Kim</a>.
   </p>
   <p>
-    My research interests lie in 3D reconstruction through Novel View Synthesis. I focus on comprehensively leveraging visual data, language models, and 3D data. Additionally, I explore enhancing Virtual Reality (VR) systems through Gaussian Splatting, with a specific emphasis on utilizing multimodal large language models.
+    My research interests lie in 3D reconstruction through Novel View Synthesis. I focus on comprehensively leveraging visual data, language models, and 3D data. Additionally, I explore enhancing Virtual Reality (VR) systems through Gaussian Splatting, with a specific emphasis on utilizing multimodal large language models.aa
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -41,6 +41,10 @@ position: >-
     Ph.D. Candidate in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
     Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
   date: Sep. 2024 - Present 
+- name: Dankook University
+  logo: /assets/images/badges/dankook.jpg
+  position: B.S. in Industrial Engineering
+  date: Mar. 2016 - Feb. 2022
 
 # - name: Chung-Ang University (CAU)
 #   logo: /assets/images/badges/cau.jpg
@@ -48,10 +52,7 @@ position: >-
 #     M.S. in Graduate School of Advanced Imaging Science, Multimedia & Film (GSAIM) <br/>
 #     Advisor: <a href="https://www.irislab.cau.ac.kr/members/pi">Prof. Hak Gu Kim</a>
 #   date: Sep. 2022 - Aug. 2024 
-- name: Dankook University
-  logo: /assets/images/badges/dankook.jpg
-  position: B.S. in Industrial Engineering
-  date: Mar. 2016 - Feb. 2022
+
 
 # experience:
 # - name: Peking University
