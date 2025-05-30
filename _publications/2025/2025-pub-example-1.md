@@ -8,7 +8,7 @@ pub_date:       "2025"
 
 # abstract: >-
 #   This study explores the potential of multimodal large language models in scene text segmentation by leveraging semantic-enhanced features. It demonstrates the synergy between textual and visual modalities to improve segmentation tasks.
-cover:          /assets/images/covers/ieee_access_25.png
+cover:          /assets/images/covers/ieee_access_25.jpg
 authors:
   - Ho Jun Kim*
   - Hak Gu Kim
